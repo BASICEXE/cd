@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+
+.title{
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+
+
+.code_page{
+  border: solid 1px #ddd;
+  padding: 2em;
+  max-width: 600px;
+  margin: 3em auto;
+  border-radius: 5px;
+}
+
+
+
+.login_form{
+  border: solid 1px #ddd;
+  padding: 2em;
+  max-width: 600px;
+  margin: 3em auto;
+  border-radius: 5px;
+}
+
+.code_section{
+  max-width: 900px;
+}
+
+.code_add{
+  max-width: 700px;
+  margin: auto;
+  margin-bottom: 3em;
+}
+.codeC1{
+  color:#2e7d32;
+}
+.codeC2{
+  color:#ff6f00;
+}
+.codeC3{
+  color:#03a9f4;
+}
+.codeC4{
+  color:#ef5350;
+}
+.codeC5{
+  color:#4a148c;
+}
+
+.section{
+  margin: 3em auto;
+}
+
+.info{
+  color: red;
+  display: block;
+  margin-bottom: 1em;
+}
+
+.progressBar{
+  margin-bottom: 3em;
+}
+
+.label{
+  margin-bottom: 0.5em;
+}
+
+.waku{
+  padding: 0.6em;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
+
+.footer{
+  border-top: solid 1px #ddd;
+  padding: 1.5em 0 1.5em;
+}
+
+.stop {
+  text-decoration: line-through !important;
+  color:#ddd !important;
+}
